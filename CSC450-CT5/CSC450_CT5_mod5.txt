@@ -1,0 +1,5 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+I am glad this finally works properly, I cannot begin to tell you how many times it kept overwriting what was in the file.
